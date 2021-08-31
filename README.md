@@ -1,6 +1,7 @@
 # test-vuelidate
 
-Link to GH Pages => https://erdeni03.github.io/formvuelidate/
+# [DEMO deploy](https://erdeni03.github.io/test-vuelidate/)
+
 
 ## Project setup
 
